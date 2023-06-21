@@ -53,7 +53,7 @@ class WPAB_ShortCode
                 <div
                   class="icon-wrapper bg-danger pb-1 text-center rounded col-md-1 col-sm-2 col-2"
                   style="color:'.$bgColor.'!important;background-color:'.$FontColor.'!important" >
-                  <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                  <i class="acc-text" aria-hidden="true"></i>
                 </div>
                 <div class="row mt-3 " >
                   <div class="para-container col-md-12">
@@ -73,7 +73,7 @@ class WPAB_ShortCode
                   <div
                     class="icon-wrapper bg-danger pb-1 text-center rounded col-md-1 col-sm-2 col-2"
                     style="color:'.$bgColor.'!important;background-color:'.$FontColor.'!important">
-                    <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                    <i class="acc-text" aria-hidden="true"></i>
                   </div>
                   <div class="row mt-3 " >
                     <div class="para-container col-md-12">
@@ -93,7 +93,7 @@ class WPAB_ShortCode
                   <div
                     class="icon-wrapper bg-danger pb-1 text-center rounded col-md-1 col-sm-2 col-2"
                     style="color:'.$bgColor.'!important;background-color:'.$FontColor.'!important">
-                    <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                    <i class="acc-text" aria-hidden="true"></i>
                   </div>
                   <div class="row mt-3 " >
                     <div class="para-container  col-md-12">
@@ -112,7 +112,7 @@ class WPAB_ShortCode
                   <div
                     class="icon-wrapper bg-danger pb-1 text-center rounded col-md-1 col-sm-2 col-2"
                     style="color:'.$bgColor.'!important;background-color:'.$FontColor.'!important">
-                    <i class="fa fa-sort-desc" aria-hidden="true"></i>
+                    <i class="acc-text" aria-hidden="true"></i>
                   </div>
                   <div class="row mt-3 " >
                     <div class="para-container  col-md-12">
